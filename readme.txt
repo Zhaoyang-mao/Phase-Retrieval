@@ -1,1 +1,1 @@
-此程序载matlab2016a上实现，功能为实现一维信号的相位恢复算法
+此程序在matlab2016a上实现，利用短时傅里叶变换实现Chirp信号的相位恢复算法，Yonina C Eldar的文章 Sparse Phase Retrieval from Shot-TimeFourier Measurements 中的Griffin-Lim algorithm(GLA)算法
